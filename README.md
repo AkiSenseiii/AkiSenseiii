@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🤓 Self taught Developer<br>🎯 Goal : To be a better Developer<br>😄 Pronouns : He/him<br>🌱 I’m currently learning Javascript, React<br>👯 I’m looking to collaborate on any projects<br>💬 Ask me about HTML, CSS, SCSS, JavaScript
+🤓 Self taught Developer<br>🎯 Goal : To be a better Web Developer<br>😄 Pronouns : He/him<br>🌱 I’m currently learning Javascript, React<br>👯 I’m looking to collaborate on any projects<br>💬 Ask me about HTML, CSS, SCSS, JavaScript
 
 
 ## 🌐 Socials:
