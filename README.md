@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F711&width=435&lines=Hi%2C+I'm+Vince+Inaki+Cruz+;Aspiring+Fullstack+Web+Developer+and+;Blockchain+Developer)](https://git.io/typing-svg)
+
+
 # 💫 About Me:
 🤓 Self taught Developer<br>🎯 Goal : To be a better Developer<br>😄 Pronouns : He/him<br>🌱 I’m currently learning Javascript, React<br>👯 I’m looking to collaborate on any projects<br>💬 Ask me about HTML, CSS, SCSS, JavaScript
 
