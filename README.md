@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🤓 Self taught Developer<br>🎯 Goal : To be a better Web Developer<br>😄 Pronouns : He/him<br>🌱 I’m currently learning solidity and enhancing my front end skills <br>👯 I’m looking to collaborate on any projects<br>💬 Ask me about HTML, CSS, JAVASCRIPT
+🤓 Self taught Developer<br>🎯 Goal : To be a better Web Developer<br>😄 Pronouns : He/him<br>🌱 I’m currently into MERN STACK and enhancing my skills <br>👯 I’m looking to collaborate on any projects<br>💬 Ask me about HTML, CSS, JAVASCRIPT
 
 
 ## 🌐 Socials:
